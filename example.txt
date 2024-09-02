@@ -1,0 +1,1 @@
+This is a sample transfer file where we transfer data from example.txt to received_file.txt in the server. 
